@@ -9,7 +9,7 @@ There is a lot of ways to implement this and I have already gone one:
         - Doing helping class at the same time to make some features usable
         - Into the every class creating funcs returning list of all possible moves from given position
 
-So, to my mind, next one is implementation of the classes system with parcing player's instrustion firstly. This system have to identify requested piece like an object.
+So, to my mind, next one is implementation of the classes system with parsing player's instrustion firstly. This system have to identify requested piece like an object.
 
 README is changing according to new ideas!
 -
