@@ -1,6 +1,6 @@
 # chess
 This repository contains my entertaining thing (not a serious project).
-It is like a single chess game where you can play against the engine. It may be some changes later)
+It is like a single chess game where you can play against the engine. It may be some changes later :)
 -
 
 In first, I'm going to create like vision for every type of pieces - moves that player is allowed to do by this piece.
