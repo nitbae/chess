@@ -12,3 +12,8 @@ board = [
     [f"w{p}" for p in pawnline],
     [f"w{p}" for p in mainline]
 ]
+
+def call(brd):
+    for i in range(0, len(board)):
+        print(f"{8 - i}", board[i])
+    print("    A", "    B", "    C", "    D", "    E", "    F", "    G", "    H")
